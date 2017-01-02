@@ -10,6 +10,10 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)timeStringClick:(id)sender;
+
+- (IBAction)timeDateClick:(id)sender;
+
 
 @end
 
